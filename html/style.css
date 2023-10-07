@@ -1,0 +1,13 @@
+
+th{
+    width: 170px;
+    border: 5px solid rgb(208, 105, 105);
+    border-radius: 10px;
+}
+td{
+    width: 170px;
+    border: 5px solid rgb(78, 75, 75);
+    font-size:  19px;
+    border-radius: 10px;
+    
+}
